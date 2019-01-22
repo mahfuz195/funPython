@@ -1,5 +1,5 @@
 # funPython
-This repo contains some fun python scripts to automate some of my work.
+This repo contains some fun python scripts to automate some of my work or some of the scripts that I use frequently.
 
 * Merge multiple pdf files into one file.
 * Make a video from a list or set of images. 
