@@ -3,7 +3,7 @@ This repo contains some fun python scripts to automate some of my work or some o
 
 * Merge multiple pdf files into one file.
 * Make a video from a list or set of images. 
-* Extract frames from a video (to be added)
+* Extract frames from a video.
 
 Most of the code are collected from online and stackoverflow. 
 
